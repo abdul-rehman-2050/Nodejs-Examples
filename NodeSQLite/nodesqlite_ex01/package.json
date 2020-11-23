@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "node-sqlite": "0.0.2-security"
+    "node-sqlite": "0.0.2-security",
+    "sqlite3": "^5.0.0"
   }
 }
