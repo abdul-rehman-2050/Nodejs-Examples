@@ -1,10 +1,9 @@
 /*
 This is minimum code to Authentication using
 Passport-Local package. (without session information)
-
+npm install express passport passport-local
 */
-
-var session      = require('express-session');
+ 
 var express	   	 = require( 'express');
 var passport 	 = require('passport');
 var Strategy 	 = require('passport-local').Strategy; 
